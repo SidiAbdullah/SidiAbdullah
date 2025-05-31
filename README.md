@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sidi Abdullah Lemrabott</h1>
 <h3 align="center">Aiming to be a skilled Full Stack Developer & Business Management</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidiabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="sidiabdullah" /> </p>
-
-sidiabdullah  
 🌱 I’m currently learning advanced software engineering and business strategies  
 👨‍💻 All of my projects are available at [github.com/SidiAbdullah](https://github.com/SidiAbdullah) 
 
