@@ -2,7 +2,7 @@
 <h3 align="center">Aiming to be a skilled Full Stack Developer & Business Management</h3>
 
 🌱 I’m currently learning advanced software engineering and business strategies  
-👨‍💻 All of my projects are available at [github.com/SidiAbdullah](https://github.com/SidiAbdullah) 
+👨‍💻 All of my projects are available at [github.com/SidiAbdullah](https://github.com/SidiAbdullah)  
 🚀 Founder of **MAP**: Math | Advices | Programming
 
 <h3 align="left">Technologies I work with:</h3>
