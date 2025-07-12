@@ -16,14 +16,14 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-microsoft-net-is-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png" alt="ADO.NET" width="40" height="40"/>
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
+  </a>
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
