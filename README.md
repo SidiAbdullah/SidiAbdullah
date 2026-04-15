@@ -1,81 +1,49 @@
 <h1 align="center">Hi 👋, I'm Sidi Abdullah Lemrabott</h1>
 
-<h3 align="center">Backend & Full Stack Developer | ASP.NET Core | .NET | Clean Architecture Enthusiast</h3>
+<h3 align="center">Full Stack Developer (Junior) | .NET | ASP.NET Core | Desktop & Web Applications</h3>
 
 ---
 
 ## 💡 About Me
 
-- 💻 Passionate Full Stack Developer specializing in **.NET ecosystem**
-- 🧠 Focused on building **scalable backend systems & clean architectures**
-- ⚙️ Experienced in REST APIs, databases, and modern web development
-- 🚀 Constantly improving problem-solving and system design skills
-- 🎯 Goal: Become a strong backend/software engineer in a top tech company
+- 💻 Junior Full Stack Developer focused on **.NET ecosystem**
+- 🧠 Building **Web + Desktop applications** with clean and scalable architecture
+- ⚙️ Strong foundation in backend development, APIs, and databases
+- 🚀 Currently expanding into **mobile development (soon In Shaa Allah)**
+- 🎯 Passionate about writing clean, maintainable, and production-ready code
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Technical Skills
 
-- **Backend Development:** ASP.NET Core, Web APIs, Entity Framework Core, ADO.NET  
-- **Frontend Development:** HTML5, CSS3, JavaScript (Vanilla)  
-- **Programming Languages:** C#, JavaScript, C++  
-- **Databases:** SQL Server, Database Design, Query Optimization  
-- **Software Architecture:** Clean Architecture, Layered Architecture, MVC  
-- **Security:** Authentication, Authorization, OWASP Basics  
-- **Tools:** Git, GitHub, Visual Studio, Postman  
+**Languages:** C#, JavaScript, SQL, HTML, CSS, C++  
 
----
+**Frameworks & Libraries:** ASP.NET Core, Entity Framework Core, ADO.NET, Windows Forms  
 
-## 🚀 Tech Stack
+**Databases:** SQL Server, IndexedDB  
 
-<p align="left">
+**Backend Concepts:** REST APIs, JWT Authentication, Authorization, Rate Limiting, Logging  
 
-  <!-- .NET -->
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- ASP.NET -->
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- C# -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="40" height="40"/>
-  </a>
-
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  </a>
-
-</p>
+**Tools:** Git, GitHub, Visual Studio  
 
 ---
 
-## 📌 What I Focus On
+## 🚀 What I Build
 
-- 🧩 Writing clean, maintainable code  
-- ⚡ Building fast and scalable APIs  
-- 🏗 Designing real-world backend architectures  
-- 🔍 Understanding how systems work under the hood  
-- 📈 Continuous learning and improvement  
+- 🌐 Full Stack Web Applications (ASP.NET Core APIs + Frontend)
+- 🖥 Desktop Applications using Windows Forms
+- 🔐 Secure backend systems with authentication & authorization
+- 📊 Database-driven applications with optimized queries
+- ⚡ Clean architecture projects with real-world structure
+
+---
+
+## 🎯 Current Focus
+
+- Improving backend system design
+- Mastering ASP.NET Core & Entity Framework Core
+- Building real-world portfolio projects
+- Preparing for mobile development (Flutter / .NET MAUI path)
 
 ---
 
@@ -86,9 +54,9 @@
 
 ---
 
-## ⭐ Closing
+## ⭐ Philosophy
 
-> “Good code is not just working code — it's scalable, readable, and maintainable.”
+> “I focus on understanding how systems work, not just how to make them work.”
 
 ---
 
