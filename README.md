@@ -38,15 +38,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-- Improving backend system design
-- Mastering ASP.NET Core & Entity Framework Core
-- Building real-world portfolio projects
-- Preparing for mobile development (Flutter / .NET MAUI path)
-
----
-
 ## 📫 Contact
 
 - 🌍 GitHub: https://github.com/SidiAbdullah  
