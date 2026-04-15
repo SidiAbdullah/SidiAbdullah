@@ -1,11 +1,20 @@
-<h1 align="center">Hi 👋, I'm Sidi Abdullah Lemrabott</h1>
-<h3 align="center">Full Stack Developer</h3>
-
-🌱 I’m currently advancing in software engineering, backend architecture, and business strategy  
-👨‍💻 All of my projects are available at <a href="https://github.com/SidiAbdullah" target="_blank">github.com/SidiAbdullah</a>  
-
 <h3 align="left">Technologies I work with:</h3>
 <p align="left">
+
+  <!-- .NET -->
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
+  </a>
+
+  <!-- ASP.NET -->
+  <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40"/>
+  </a>
+
+  <!-- Entity Framework -->
+  <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/microsoft.png" alt="Entity Framework" width="40" height="40"/>
+  </a>
 
   <!-- C# -->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
