@@ -6,29 +6,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
   </a>
 
-  <!-- ASP.NET -->
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="ASP.NET Core" width="40" height="40"/>
-  </a>
-
-  <!-- Entity Framework -->
-  <a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/microsoft.png" alt="Entity Framework" width="40" height="40"/>
-  </a>
-
   <!-- C# -->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-
-  <!-- Windows Forms -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/windows-10.png" alt="Windows Forms" width="40" height="40"/>
-  </a>
-
-  <!-- ADO.NET -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/framework/data/adonet/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-microsoft-net-is-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png" alt="ADO.NET" width="40" height="40"/>
   </a>
 
   <!-- SQL Server -->
@@ -54,11 +34,6 @@
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-
-  <!-- RESTful API -->
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-api-settings-interface-symbol-logo-color-tal-revivo.png" alt="RESTful API" width="40" height="40"/>
   </a>
 
   <!-- Web Security -->
