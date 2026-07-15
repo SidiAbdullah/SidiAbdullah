@@ -16,7 +16,7 @@
 
 ## 🧠 Technical Skills
 
-**Languages:** C#, JavaScript, SQL, HTML, CSS, C++  
+**Languages:** HTML, CSS, JavaScript, Typescript, C#, SQL, C++  
 
 **Frameworks & Libraries:** ASP.NET Core, Entity Framework Core, ADO.NET, Windows Forms  
 
