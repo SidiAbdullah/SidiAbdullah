@@ -4,13 +4,6 @@
 Junior Full Stack Developer | C# | ASP.NET Core | React | SQL
 </h3>
 
-<p align="center">
-  <a href="https://github.com/SidiAbdullah">
-    <img src="https://img.shields.io/github/followers/SidiAbdullah?label=Followers&style=flat" alt="GitHub Followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SidiAbdullah&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>
-
 ---
 
 ## 👨‍💻 About Me
