@@ -49,14 +49,6 @@ I enjoy understanding how systems work, building projects from scratch, and cont
 
 ---
 
-## 📫 Contact
-
-🌍 **GitHub:** [SidiAbdullah](https://github.com/SidiAbdullah)
-
-📍 **Nouakchott, Mauritania**
-
----
-
 <p align="center">
   ⭐ Feel free to explore my repositories.
 </p>
