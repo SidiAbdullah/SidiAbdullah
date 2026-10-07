@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sidi Abdullah Lemrabott</h1>
+<h1 align="center">Hi 👋, I'm Sidi Abdullah/h1>
 
 <h3 align="center"> Junior Full Stack Developer | C# | .NET | JavaScript | SQL </h3>
 
